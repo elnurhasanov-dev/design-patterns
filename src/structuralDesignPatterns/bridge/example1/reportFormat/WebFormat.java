@@ -1,4 +1,4 @@
-package structuralDesignPatterns.bridge.reportFormat;
+package structuralDesignPatterns.bridge.example1.reportFormat;
 
 public class WebFormat implements IReportFormat {
     @Override
