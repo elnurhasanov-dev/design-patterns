@@ -1,4 +1,4 @@
-package structuralDesignPatterns.flyweight;
+package structuralDesignPatterns.flyweight.example2;
 
 public class PaperBook implements Book {
 

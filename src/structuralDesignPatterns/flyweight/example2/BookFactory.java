@@ -1,4 +1,4 @@
-package structuralDesignPatterns.flyweight;
+package structuralDesignPatterns.flyweight.example2;
 
 import java.util.HashMap;
 import java.util.Map;
